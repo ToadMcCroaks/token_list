@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Black Pepe Token",
+      "address": "0x1F279A53a14D789155b1eD0349a03b772b36e722",
+      "symbol": "BPEPE",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://blackpepe-logo.png"
+    },
+    {
+      "name": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32/logo.png"
+    }
+  ]  
