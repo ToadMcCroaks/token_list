@@ -10,7 +10,7 @@
     {
       "name": "Black Pepe Token",
       "address": "0x1F279A53a14D789155b1eD0349a03b772b36e722",
-      "symbol": "BPC",
+      "symbol": "BPT",
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://blackpepe-logo.png"
