@@ -1,4 +1,12 @@
-[
+{
+  "name": "Custom Token List",
+  "timestamp": "2025-02-18T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
     {
       "name": "Black Pepe Token",
       "address": "0x1F279A53a14D789155b1eD0349a03b772b36e722",
@@ -15,4 +23,6 @@
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32/logo.png"
     }
-  ]  
+  ]
+}
+
